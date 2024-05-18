@@ -1,5 +1,5 @@
 {
-  "name": "github-bot",
+  "name": "gitstr",
   "version": "1.0.0",
   "description": "be cool using it",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vedant-dwivedi/github-bot.git"
+    "url": "git+https://github.com/vedant-dwivedi/gitstr.git"
   },
   "author": "Vedant Dwivedi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vedant-dwivedi/github-bot/issues"
+    "url": "https://github.com/vedant-dwivedi/gitstr/issues"
   },
-  "homepage": "https://github.com/vedant-dwivedi/github-bot#readme",
+  "homepage": "https://github.com/vedant-dwivedi/gitstr#readme",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "moment": "^2.30.1",
