@@ -10,7 +10,7 @@ const FILE_PATH = './data.json';
 
 // makeCommit(1, 1)
 
-const DATE = moment().subtract(1, 'd').format();
+const DATE = moment().subtract(2, 'd').format();
 
 const data = {
     date: DATE
